@@ -1,0 +1,1 @@
+This is the source code for my public academic website. The design is adapted from Jon Barron's website: [https://jonbarron.info/](https://jonbarron.info/)
